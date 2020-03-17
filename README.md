@@ -20,3 +20,5 @@ Please fork the following CodeSandbox project, follow the instructions provided 
 https://codesandbox.io/s/2020-internship-exercise-menu-prv62
 
 [My Solution](https://codesandbox.io/s/2020-internship-exercise-menu-onimd)
+![Desktop/Tablet View](https://github.com/Michael-Xie/2020_CriticalMass_InternshipApplication/blob/master/docs/desktop-tablet-view.png)
+![Mobile View](https://github.com/Michael-Xie/2020_CriticalMass_InternshipApplication/blob/master/docs/mobile-view.png)
