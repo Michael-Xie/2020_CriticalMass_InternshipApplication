@@ -7,6 +7,7 @@ Provide up to three examples of work/projects that you've recently participated 
 ## Inspiration
 
 Provide up to three examples of work that has recently inspired you from a technical perspective. These can be open source projects, CodePens/CodeSandboxes, blog posts, etc. Be sure to include specifics on what you found inspiring.
+[Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
 
 ## Focus
 
@@ -17,3 +18,5 @@ If you were given the time and resources to build/learn anything you wanted duri
 Please fork the following CodeSandbox project, follow the instructions provided in the README.md file in the project, and do your best to complete the challenge. When you are finished, provide a link to your solution in your README.md file of your GitHub repository. Be prepared to walk through your solution and explain the rationale behind your solution.
 
 https://codesandbox.io/s/2020-internship-exercise-menu-prv62
+
+[My Solution](https://codesandbox.io/s/2020-internship-exercise-menu-onimd)
