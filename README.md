@@ -37,7 +37,7 @@ Provide up to three examples of work that has recently inspired you from a techn
 ## Focus
 
 If you were given the time and resources to build/learn anything you wanted during your internship, where would you choose to focus your efforts? Provide a brief description of how you would spend your time.
-> Mobile devices have become integral parts of our lives. We use their mobile apps to share moments with friends to collaborating with colleagues in documents and kanban boards, just to name a few examples. During this internship, I want to focus my effort into three areas, each for about one month of learning and building. First, I want to build a mobile application using cross-platform framework like React Native or native app using Swift or Java. Second, I want to explore how services can be done offline, especially when internet is not stable. Third, I want to use accessiblity features that enhances the user experience.
+> Mobile devices have become integral parts of our lives. We use their mobile apps to share moments with friends to collaborating with colleagues in documents and kanban boards, just to name a few examples. During this internship, I want to focus my effort into three areas, each for about one month of learning and building. First, I want to build a mobile application using cross-platform framework like React Native or native app using Swift or Java. Second, I want to explore how services can be done offline, especially when internet is not stable. Third, I want to use accessiblity features that enhances the overall user experience.
 
 ## Code Challenge
 
