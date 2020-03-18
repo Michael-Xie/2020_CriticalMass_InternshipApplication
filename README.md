@@ -1,4 +1,4 @@
-# 2020_CriticalMass_InternshipApplication
+# 2020 Critical Mass Internship Application
 
 ## Work / Project Examples
 
@@ -29,10 +29,15 @@ Provide up to three examples of work/projects that you've recently participated 
 
 Provide up to three examples of work that has recently inspired you from a technical perspective. These can be open source projects, CodePens/CodeSandboxes, blog posts, etc. Be sure to include specifics on what you found inspiring.
 1. [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
-
+> This talk further emphasized that code is made for the future you and other people read, maintain, and extend. A key take away is Katerina emphasized that SOLID are principles and *not* hard rules. This means when applying a certain priniciple reduces code maintainability then should stop and evaluate whether it is applied correctly or over-engineered. Last, using `interface` is an integral part of SOLID.
+2. [Accessibility Fundamentals with Rob Dodson](https://www.youtube.com/watch?v=z8xUCzToff8)
+> In this talk, I learned that there is also an accessiblity DOM tree made when rendering a web page that contains relevant nodes like text, form, and buttons. In particular, people who has limited vision or fully blind would need a screen reader to understand and navigate through the webpage. Knowing the above two findings, a win-win practise for the user and the code maintainer is using semantic elements. It will more accurately describe what the content of an element is, even though they function visually the same (`div` vs `article`)
+3. [Oh My Zsh](https://ohmyz.sh/)
+> I stumbled upon Oh My Zsh when I was trying to configure my Windows Subsystem for Linux. It has a huge following and contributors to manage an open source framework for zsh configurations. Its themes and plugin make the user more productive. One useful feature is showing which branch in git I am in. Second, the autocomplete feature in zsh is much more fluent than in Bash. Last, the plugins can reduce the number of keystrokes to perform the same tasks.
 ## Focus
 
 If you were given the time and resources to build/learn anything you wanted during your internship, where would you choose to focus your efforts? Provide a brief description of how you would spend your time.
+> Mobile devices have become integral parts of our lives. We use their mobile apps to share moments with friends to collaborating with colleagues in documents and kanban boards, just to name a few examples. During this internship, I want to focus my effort into three areas, each for about one month of learning and building. First, I want to build a mobile application using cross-platform framework like React Native or native app using Swift or Java. Second, I want to explore how services can be done offline, especially when internet is not stable. Third, I want to use accessiblity features that enhances the user experience.
 
 ## Code Challenge
 
