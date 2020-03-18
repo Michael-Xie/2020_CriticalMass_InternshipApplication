@@ -29,11 +29,11 @@ Provide up to three examples of work/projects that you've recently participated 
 
 Provide up to three examples of work that has recently inspired you from a technical perspective. These can be open source projects, CodePens/CodeSandboxes, blog posts, etc. Be sure to include specifics on what you found inspiring.
 1. [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
-> This talk further emphasized that code is made for the future you and other people read, maintain, and extend. A key take away is Katerina emphasized that SOLID are principles and *not* hard rules. This means when applying a certain priniciple reduces code maintainability then should stop and evaluate whether it is applied correctly or over-engineered. Last, using `interface` is an integral part of SOLID.
+> This talk further emphasized that code is made for the future you and other people to read, maintain, and extend. Katerina emphasized that SOLID are principles and *not* hard rules. This means when applying a certain priniciple that reduces code maintainability then should stop and evaluate whether it is applied correctly or over-engineered. Last, using `interface` is an integral part of SOLID.
 2. [Accessibility Fundamentals with Rob Dodson](https://www.youtube.com/watch?v=z8xUCzToff8)
-> In this talk, I learned that there is also an accessiblity DOM tree made when rendering a web page that contains relevant nodes like text, form, and buttons. In particular, people who has limited vision or fully blind would need a screen reader to understand and navigate through the webpage. Knowing the above two findings, a win-win practise for the user and the code maintainer is using semantic elements. It will more accurately describe what the content of an element is, even though they function visually the same (`div` vs `article`)
+> In this talk, I learn that there is an accessiblity DOM tree made when rendering a web page. It contains relevant nodes like text, form, and buttons. This information is especially useful for people who require other means to understand and navigate the web page. In particular, people who has limited vision or fully blind would need a screen reader to understand and navigate through the webpage. Knowing the above two findings, a win-win practise for the user and the code maintainer is using semantic elements. It will more accurately describe what the content of an element is, even though they function visually the same (`div` vs `article`)
 3. [Oh My Zsh](https://ohmyz.sh/)
-> I stumbled upon Oh My Zsh when I was trying to configure my Windows Subsystem for Linux. It has a huge following and contributors to manage an open source framework for zsh configurations. Its themes and plugin make the user more productive. One useful feature is showing which branch in git I am in. Second, the autocomplete feature in zsh is much more fluent than in Bash. Last, the plugins can reduce the number of keystrokes to perform the same tasks.
+> I stumbled upon Oh My Zsh when I was trying to configure my Windows Subsystem for Linux. It is an open source framework for zsh configurations with a huge following and active contributors. Its themes and plugin make the user more productive. One useful feature is showing which branch in git I am in. Second, the autocomplete feature in zsh is much more fluent than in Bash. Last, the plugins can reduce the number of keystrokes needed to perform the same tasks.
 ## Focus
 
 If you were given the time and resources to build/learn anything you wanted during your internship, where would you choose to focus your efforts? Provide a brief description of how you would spend your time.
@@ -43,7 +43,7 @@ If you were given the time and resources to build/learn anything you wanted duri
 
 Please fork the following CodeSandbox project, follow the instructions provided in the README.md file in the project, and do your best to complete the challenge. When you are finished, provide a link to your solution in your README.md file of your GitHub repository. Be prepared to walk through your solution and explain the rationale behind your solution.
 
-https://codesandbox.io/s/2020-internship-exercise-menu-prv62
+[The Internship Exercise](https://codesandbox.io/s/2020-internship-exercise-menu-prv62)
 
 [My Solution](https://codesandbox.io/s/2020-internship-exercise-menu-onimd)
 ![Desktop/Tablet View](https://github.com/Michael-Xie/2020_CriticalMass_InternshipApplication/blob/master/docs/desktop-tablet-view.png)
