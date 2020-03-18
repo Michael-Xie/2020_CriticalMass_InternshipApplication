@@ -9,7 +9,7 @@ Provide up to three examples of work/projects that you've recently participated 
     * validated input from user when creating a new tweet
     * updated tweeter feed as new tweets are submitted
     * styled the web app based on hi-fi mockups
-    * added feature scroll button feature that focuses on create tweet when reaching the top of page
+    * added scroll button feature that scrolls back to top of page and focuses on create tweet
 2. [Scheduler](https://github.com/Michael-Xie/scheduler)
     * *A Single Page Application that allows a student to book an appointment with an interviewer. It is built using React, and data is persisted by [the API server](https://github.com/Michael-Xie/scheduler-api) using a PostgreSQL database* 
     * built all the components needed to make the SPA functional
