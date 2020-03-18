@@ -5,7 +5,7 @@
 Provide up to three examples of work/projects that you've recently participated in and provide detailed information about your role and contributions to the project.
 1. [Tweeter](https://github.com/Michael-Xie/tweeter)
     * *Tweeter is a simple, single-page Twitter clone that uses HTML, CSS, JS, jQuery and AJAX for front-end, and Node and Express for back-end*
-    * made SPA responsive in desktop and mobile views
+    * made Single Page Application(SPA) responsive in desktop and mobile views
     * validated input from user when creating a new tweet
     * updated tweeter feed as new tweets are submitted
     * styled the web app based on hi-fi mockups
